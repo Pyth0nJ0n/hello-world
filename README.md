@@ -1,4 +1,2 @@
-# hello-world
-hello, world
+# hello world variations
 
-I gotta start learning more git
